@@ -1,5 +1,5 @@
 # CPP-Programs
-This repository contains the programs in C illustrated during the sessions.
+This repository contains some programs in C++ to understand most of the concepts of this language.
 
 ## Basics of C++
 
@@ -49,5 +49,5 @@ This repository contains the programs in C illustrated during the sessions.
 
 ### Template Class (Generic Class)
 
-[Student Record Header file](Templates/studentRecord.h)
-[Student Record Main file](Templates/studentRecord.cpp)
+- [Student Record Header file](Templates/studentRecord.h)
+- [Student Record Main file](Templates/studentRecord.cpp)

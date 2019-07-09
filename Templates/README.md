@@ -6,5 +6,5 @@
 
 ### Template Class (Generic Class)
 
-[Student Record Header file](studentRecord.h)
-[Student Record Main file](studentRecord.cpp)
+- [Student Record Header file](studentRecord.h)
+- [Student Record Main file](studentRecord.cpp)

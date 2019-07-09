@@ -7,11 +7,11 @@
 5. [Copy Constructor](Classes/matrix.cpp)
 6. [Static members](Classes/staticData.cpp)
 
-### Inheritance
+## Inheritance
 
 [Shape class example](Inheritance/inheritance.cpp)
 
-### Polymorphism
+## Polymorphism
 
 1. [Constructor overloading](Polymorphism/constructorOverloading.cpp)
 2. [Intro to Virtual functions](Polymorphism/generalPolymorphism.cpp)
